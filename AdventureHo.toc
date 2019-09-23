@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: Adventure Ho!
+## Version: 1.0
+## Author: Pretzellent @ Remulos
+## Notes: Allows players to make quests for other players. Offering rewards.
+
+AdvMain.lua
